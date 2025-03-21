@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anonym0uxx
-- 👀 I’m interested in cars, crypto, and mechanical engineering - and sometimes espresso!
+- 👀 I’m interested in cars, crypto, and mechanical engineering, & espresso!
 - 🌱 I’m currently learning React and MERN stack/LLM Integrated Agents!
 - 💞️ I’m looking to collaborate on any fun crypto, Ai, and any creative projects!
 - 📫 How to reach me - leave a comment!
